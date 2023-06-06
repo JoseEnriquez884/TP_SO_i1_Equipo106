@@ -1,4 +1,10 @@
-Apellido y nombre de los alumnos que participaron de la interacción:
+﻿Apellido y nombre de los alumnos que participaron de la interacción:
 Barrera Joel Manuel 
 Gomez Brandon 
 Enriquez Bishop Jose Alberto
+
+a-¿ALFA ve los datos que cargaron los demás en su repositorio?
+Si, los veo
+
+b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
+Si, lo ven
