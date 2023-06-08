@@ -14,3 +14,6 @@ Si, lo ven
 
 d-¿De qué forma se comunicaron ustedes?
 Nos comunicamos mediante WhatsApp
+
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+la mejor forma de comunicarse es en la solapa "projects"
